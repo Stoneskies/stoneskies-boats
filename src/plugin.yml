@@ -1,0 +1,12 @@
+name: SpeedBoats
+version: 1.0
+main: dev.debuggings.speedboat.Main
+author: Debuggings
+description: Speedy Speedy Boatssss
+commands:
+  speedboat:
+    description: Give Speed Boat Controller
+  super-speedboat:
+    description: Give Super Speed Boat Controller
+  boatkey:
+    description: Give Boat Key Just For Particles And Sound

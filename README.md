@@ -1,4 +1,3 @@
-https://www.spigotmc.org/resources/speedboats.76396/
-https://dev.bukkit.org/projects/speedboats
+SpeedBoat Plugin allowing for fast boat travel
 
-Bukkit was not approved yet.
+https://github.com/Stoneskies/Stoneskies/wiki/Transportation
